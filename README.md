@@ -1,2 +1,24 @@
 # food-delivery-java-app
-A dynamic food delivery web application developed using Java (JSP, JDBC) and MySQL. Features include user registration/login, menu display, and order processing. Built to explore real-world web application architecture and database integration.
+# Food Delivery Web Application
+
+## Description
+This is a web-based food delivery application developed using Java technologies.
+
+## Technologies Used
+- Java
+- JSP
+- JDBC
+- MySQL
+- HTML, CSS
+
+## Features
+- User Registration & Login
+- Menu Display
+- Order Placement
+- Database Connectivity
+
+## Status
+Project is under development and being enhanced.
+
+## Author
+J Abeed
